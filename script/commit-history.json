@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7ce2b9029aa821f6ab8499b45eff402ee509d5d5",
     "author": "Carlitos",
     "commit": {
       "date": "2026-08-29T01:59:31.000Z",
       "message": "feat: manejar fizz y buzz",
-      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/7ce2b9029aa821f6ab8499b45eff402ee509d5d5"
     },
     "stats": {
       "total": 5,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlitos",
+    "commit": {
+      "date": "2026-08-29T02:01:57.000Z",
+      "message": "feat: manejar fizzbuzz",
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2026-08-29"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

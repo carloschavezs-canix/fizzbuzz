@@ -21,5 +21,9 @@ describe("FizzBuzz", () => {
      test("debería devolver Fizz si recibe 6", () => {
         expect(fizzbuzz(6)).toEqual("Fizz");
     });
-    
+
+       test("debería devolver FizzBuzz si el número es múltiplo de 3 y 5", () => {
+        expect(fizzbuzz(30)).toEqual("FizzBuzz");
+    });
+
 });

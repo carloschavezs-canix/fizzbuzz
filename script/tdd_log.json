@@ -136,9 +136,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7ce2b9029aa821f6ab8499b45eff402ee509d5d5",
     "commitName": "feat: manejar fizz y buzz",
     "commitTimestamp": 1787968772095,
     "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1787968848173,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1787968868476,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: manejar fizzbuzz",
+    "commitTimestamp": 1787968918470,
+    "testId": 5
   }
 ]
