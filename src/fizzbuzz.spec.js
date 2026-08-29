@@ -14,4 +14,7 @@ describe("FizzBuzz", () => {
         expect(fizzbuzz(3)).toEqual("Fizz");
     });
 
+    test("debería devolver Buzz si el número es múltiplo de 5", () => {
+        expect(fizzbuzz(5)).toEqual("Buzz");
+    });
 });

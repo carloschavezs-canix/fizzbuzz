@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0793c7a69111d136cf105776fe6ef409ce8a450c",
     "author": "Carlitos",
     "commit": {
       "date": "2026-08-29T01:48:28.000Z",
       "message": "feat: agregar regla fizz para multiplos de 3",
-      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/0793c7a69111d136cf105776fe6ef409ce8a450c"
     },
     "stats": {
       "total": 8,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlitos",
+    "commit": {
+      "date": "2026-08-29T01:49:48.000Z",
+      "message": "feat: agregar regla buzz para multiplos de 5",
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-08-29"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
