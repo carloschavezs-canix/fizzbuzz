@@ -114,9 +114,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5b4727cf3cf7d0811752a828c15e0edfa8464e70",
     "commitName": "feat: agregar regla buzz para multiplos de 5",
     "commitTimestamp": 1787968190037,
     "testId": 3
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1787968236098,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1787968657124,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: manejar fizz y buzz",
+    "commitTimestamp": 1787968772095,
+    "testId": 4
   }
 ]
