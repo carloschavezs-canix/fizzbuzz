@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Carlitos",
+    "commit": {
+      "date": "2026-08-29T01:42:53.000Z",
+      "message": "test: agregar prueba inicial de fizzbuzz",
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 14,
+      "deletions": 0,
+      "date": "2026-08-29"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
