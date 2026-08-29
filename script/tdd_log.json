@@ -70,9 +70,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6ff5ea5160e1aca73b14f77f53b9d8b7d1755421",
     "commitName": "test: manejar numeros diferentes",
     "commitTimestamp": 1787967990441,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1787968066938,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1787968089976,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: agregar regla fizz para multiplos de 3",
+    "commitTimestamp": 1787968109226,
+    "testId": 2
   }
 ]
