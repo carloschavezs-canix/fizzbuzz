@@ -40,9 +40,39 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "659f3d619cd09677281f68539c13819b21a54b38",
     "commitName": "test: agregar prueba inicial de fizzbuzz",
     "commitTimestamp": 1787967774958,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1787967883108,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1787967907118,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787967968148,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: manejar numeros diferentes",
+    "commitTimestamp": 1787967990441,
+    "testId": 1
   }
 ]

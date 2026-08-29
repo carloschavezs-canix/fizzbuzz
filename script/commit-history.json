@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "659f3d619cd09677281f68539c13819b21a54b38",
     "author": "Carlitos",
     "commit": {
       "date": "2026-08-29T01:42:53.000Z",
       "message": "test: agregar prueba inicial de fizzbuzz",
-      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/659f3d619cd09677281f68539c13819b21a54b38"
     },
     "stats": {
       "total": 14,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlitos",
+    "commit": {
+      "date": "2026-08-29T01:46:29.000Z",
+      "message": "test: manejar numeros diferentes",
+      "url": "https://github.com/carloschavezs-canix/fizzbuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 6,
+      "deletions": 2,
+      "date": "2026-08-29"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
